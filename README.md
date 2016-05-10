@@ -1,8 +1,8 @@
 # PHYS227 HW 5
 
-**Author:** _\<your name\>_
+**Author:** Michael Seaman
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-5-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-5-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-5-seama107.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-5-seama107)
 
 **Due date:** 2016/03/08
 
@@ -21,7 +21,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw5.ipynb```
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+Not a huge fan of the whole plot/evaluate cycle, but it's a good time
 
 ## Honor Pledge
 

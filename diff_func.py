@@ -32,7 +32,6 @@ def g_prime(x):
     return -10 * np.exp(10 * x) * np.sin( np.exp(10 * x) )
 
 def h_prime(x):
-    lnx)xx+xxx−1
     return np.log(x) * h(x) + x* x** (x-1)
 
 def linear_func(x):
